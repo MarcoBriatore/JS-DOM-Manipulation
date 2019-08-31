@@ -1,4 +1,4 @@
-Ejercicio 1. Insertar el string "Hello World" dentro del elemento <p>
-Ejercicio 2. Insertar el string "Hello World" dentro del primer elemento que tenga la clase test
-Ejercicio 3. Agregar funcionalidad a los botones para modificar la tabla
-Ejercicio 4. Deberá resaltar (agregar CSS) todos los elementos <span> que contengan la clasemyClass cuando se haga click en el botón “Highlight words”
+##Ejercicio 1. Insertar el string "Hello World" dentro del elemento <p>
+##Ejercicio 2. Insertar el string "Hello World" dentro del primer elemento que tenga la clase test
+##Ejercicio 3. Agregar funcionalidad a los botones para modificar la tabla
+##Ejercicio 4. Deberá resaltar (agregar CSS) todos los elementos <span> que contengan la clasemyClass cuando se haga click en el botón “Highlight words”
